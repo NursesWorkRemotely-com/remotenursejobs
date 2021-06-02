@@ -1,2 +1,2 @@
 # remotenursejobs
-Job board focused exclusively on United States based work from home jobs for nurses (ex: APRN, RN, LPN, etc.). We also publish thoughtful articles and content.
+NursesWorkRemotely.com is a job board focused exclusively on United States based work from home jobs for nurses (ex: APRN, RN, LPN, etc.). We also publish thoughtful articles and content.
